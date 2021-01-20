@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@200;400&display=swap');
+
+body {
+    margin: 0;
+    overflow-x: hidden
+}
+
+.body-wrapper {
+    padding-top: 5%;
+    margin: 0 0 100px;
+}
+
+.header-wrapper {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.header-image {
+    width: 100%;
+}
+
+.navbar-wrapper {
+    float: right;
+    margin: 12px;
+}
+
+.house-image {
+    margin: 0 auto;
+    width: 40%;
+    display: block;
+    padding: 2% 0 2% 0;
+}
+
+.logo-title {
+    margin-bottom: 4px;
+    text-align: center;
+    font-family: 'Epilogue', sans-serif;
+}
+
+.logo-subtitle {
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: lighter;
+}
+
+.android-app-wrapper {
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    padding-right: 10%;
+}
+
+.android-app-image {
+    float: right;
+    width: 20%;
+}
+
+.android-app-text-wrapper {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 1.2em;
+    width: 25%;
+    float: right;
+    padding-top: 24px;
+}
+
+.android-app-text-wrapper h3{
+    margin-bottom: 14px;
+}
+
+.android-app-google-badge {
+    width: 70%;
+}
+
+.house-login-wrapper {
+    text-align: center;
+}
+
+.timeline-wrapper {
+    top: 400px;
+    position: relative;
+    float: left;
+    padding-left: 6%;
+}
+
+.timeline-image {
+    float: inherit;
+    width: 24%;
+}
+
+.timeline-text-wrapper {
+    float: left;
+    font-family: 'Epilogue', sans-serif;
+    font-size: 1.2em;
+    width: 25%;
+    padding-top: 24px;
+    margin-left: 24px;
+}

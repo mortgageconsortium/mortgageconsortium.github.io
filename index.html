@@ -1,1 +1,77 @@
-<>
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Hypoteční konsorcium</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/button.css">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<script>
+    AOS.init();
+</script>
+<div class="header-wrapper">
+    <img class="header-image" src="img/cloud_2.webp">
+</div>
+<div class="body-wrapper">
+    <div data-aos="zoom-out" data-aos-duration="1000">
+        <h1 class="logo-title">Hypoteční konsorcium</h1>
+        <h2 class="logo-subtitle">Dům snů za pár dnů</h2>
+    </div>
+    <div>
+        <img class="house-image" data-aos="fade-up" data-aos-duration="1000" src="img/house1.png"/>
+        <div class="house-login-wrapper" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="-200"
+             data-aos-delay="250">
+            <button type="button" onclick="location.href = 'https://app.consortium.mortgage';" class="button arrow">
+                Najít vysněný dům
+            </button>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="android-app-wrapper" data-aos="fade-left">
+        <img class="android-app-image" src="img/android-detail.webp">
+        <div class="android-app-text-wrapper">
+            <h3>Mobilní aplikace</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et pharetra tellus. Phasellus nec odio
+                scelerisque, elementum purus et, tempor dolor. Proin ullamcorper placerat mi vitae congue.</p>
+            <div>
+                <a href='https://app.consortium.mortgage'>
+                    <img alt='Nyní na Google Play'
+                         class="android-app-google-badge"
+                         src='https://play.google.com/intl/en_us/badges/static/images/badges/cs_badge_web_generic.png'/>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="timeline-wrapper" data-aos="fade-right">
+        <img class="timeline-image" src="img/proces.webp">
+        <div class="timeline-text-wrapper">
+            <h3>Procesní mapa</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et pharetra tellus. Phasellus nec odio
+                scelerisque, elementum purus et, tempor dolor. Proin ullamcorper placerat mi vitae congue.</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
