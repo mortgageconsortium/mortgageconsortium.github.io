@@ -126,11 +126,17 @@ https://github.com/your_username_/Project-Name.git ``` 3. Install NPM packages
 
   ### How to use Decentralized Identity
   1. [Open application](https://app.consortium.mortgage)
-  2. Click signup - Currently, for the purpose of demo you need to use AAD
-  3. Wait approximately 1 hour for verification of your identity
-  4. Issue your membership card to your phone - Follow the instructions [Here](https://mconsissuer.azurewebsites.net/)
+  2. SignUp
+      - Currently, for the demo purpose you will use AAD as Identity Provider. In the future this could be changed to any other IDP, for instance BankID.
+      - Click `sign up now`
+      <p align="left">
+        <img src="assets/doc/auth/auth.png" alt="Auth" width="400" height="400" />
+      </p>
+
+  3. After successful sign-up, please wait approximately 1 hour for verification of your identity
+  4. Issue your credentials to your phone - Follow the instructions [Here](https://mconsissuer.azurewebsites.net/)
   5. Open application again and scan the QRCode with Authenticator App
-  6. Enjoy the platform
+  6. Enjoy the platform :blush:
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
