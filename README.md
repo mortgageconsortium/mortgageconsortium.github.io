@@ -202,7 +202,7 @@ https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=
 [license-shield]:
 https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]:
-https://github.com/mortgageconsortium/mortgageconsortium.github.io/blob/master/LICENSE.txt
+https://github.com/mortgageconsortium/mortgageconsortium.github.io/blob/master/LICENSE
 [linkedin-shield]:
 https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: 
