@@ -127,9 +127,9 @@ https://github.com/your_username_/Project-Name.git ``` 3. Install NPM packages
 ### Platform Roles
   Roles are important for the work with application. You can be buyer or seller.
   - Buyer
-    This role you will get automaticaly when you create a case.
+     - This role you will get automaticaly when you create a case.
   - Seller
-    You can get this role after some buyer invite you as a seller. This is for simplicity to go over the demo and try all features.
+     - You can get this role after some buyer invite you as a seller. This is for simplicity to go over the demo and try all features.
 
 ### Decentralized Identity
   Concept of Decentralized Identity
