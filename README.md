@@ -109,9 +109,14 @@ section. Here are a few examples.
   
 This is an example of how you may give instructions on
 setting up your project locally. To get a local copy up and running follow these
-simple example steps. ### Prerequisites This is an example of how to list things
-you need to use the software and how to install them. 
+simple example steps. 
 
+### Prerequisites 
+This is an example of how to list things you need to use the software and how to install them. 
+
+* Microsoft Authenticator installed on your phone
+  - [Get Authenticator App](https://app.adjust.com/e3rxkc_7lfdtm?fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.azure.authenticator)
+  
 * npm ```sh npm install
 npm@latest -g ``` 
 
