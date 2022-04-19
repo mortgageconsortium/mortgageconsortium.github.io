@@ -15,12 +15,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<center>
+<div style="markdown="1" align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url] [![MIT
 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</center>
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
