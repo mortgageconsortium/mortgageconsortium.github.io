@@ -24,7 +24,7 @@ License][license-shield]][license-url]
 <br />
 <div align="center">
   <a href="#">
-    <img src="../assets/img/logosmall_white.png" alt="Logo" width="80" height="80" />
+    <img src="assets/img/logosmall_white.png" alt="Logo" width="80" height="80" />
   </a>
 
   <h3 align="center">Real Estate Consortium</h3>
@@ -99,6 +99,7 @@ section. Here are a few examples. * [AZURE](https://azure.microsoft.com) * [Nest
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<div id="getting-started">
 <!-- GETTING STARTED -->
 ## Getting Started This is an example of how you may give instructions on
 setting up your project locally. To get a local copy up and running follow these
@@ -111,6 +112,7 @@ on any external dependencies or services._ 1. Get a free API Key at
 https://github.com/your_username_/Project-Name.git ``` 3. Install NPM packages
 ```sh npm install ``` 4. Enter your API in `config.js` ```js const API_KEY =
 'ENTER YOUR API'; ```
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
