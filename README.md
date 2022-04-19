@@ -63,7 +63,8 @@ License][license-shield]][license-url]
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#limitations">Limitations</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -83,11 +84,11 @@ License][license-shield]][license-url]
 
 ### Built With 
 
-This section should list any major frameworks/libraries used to
-bootstrap your project. Leave any add-ons/plugins for the acknowledgements
-section. Here are a few examples. 
+This section should list any major providers/frameworks/libraries used to
+bootstrap our project. Whole project is built on Azure & GitHub resources and leverage all benefits.
 
-* [AZURE](https://azure.microsoft.com) 
+* [Azure](https://azure.microsoft.com) 
+* [GitHub](https://github.com) 
 * [Nestjs](https://nestjs.com/) 
 * [Angular](https://angular.io/)
 
@@ -97,17 +98,31 @@ section. Here are a few examples.
 <!-- GETTING STARTED -->
 ## Getting Started 
   
-This is an example of how you may give instructions on
-setting up your project locally. To get a local copy up and running follow these
-simple example steps. 
+In this section we give you instructions on
+setting up prerequisites and being aware of features that are currently available.
 
 ### Prerequisites 
 This is an example of how to list things you need to use the software and how to install them. 
 
 * Microsoft Authenticator installed on your phone
   - [Get Authenticator App](https://app.adjust.com/e3rxkc_7lfdtm?fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.azure.authenticator)
-  
-* npm ```sh npm install
+
+### Features
+
+
+* Simulate how easy can be buy or sell property via crypto. 
+* We are using Ethereum. All transactions are done on testnet.
+* We are using concept of decentralized identity to verify multiple claims (ie. the owner of the property)
+* You do not need your own Wallet. It is generated for you. In the future we would like to support your own web wallet [Metamask](https://metamask.io/) or hardware wallet [Trezor](https://trezor.io/)
+* All contracts are prepared. Because we are using blockchain, appropriate contracts are created as smart contracts. Therefore, no third party is needed.
+* Contact between participants using audio/video call.
+* Contact between participants using chat. [![Version](https://img.shields.io/badge/comming%20soon-blue)]()
+* You do not need anything - just play the game with your friend, colleague, wife, husband, neighbor etc.
+### Limitations
+
+* This is demo platform. All data can be lost.
+
+<!-- * npm ```sh npm install
 npm@latest -g ``` 
 
 ### Installation 
@@ -119,7 +134,7 @@ on any external dependencies or services._
 2. Clone the repo ```sh git clone
 https://github.com/your_username_/Project-Name.git ``` 
 3. Install NPM packages ```sh npm install ``` 
-4. Enter your API in `config.js` ```js const API_KEY = 'ENTER YOUR API'; ```
+4. Enter your API in `config.js` ```js const API_KEY = 'ENTER YOUR API'; ``` -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -151,8 +166,8 @@ https://github.com/your_username_/Project-Name.git ```
   6. Enjoy the platform :blush:
 
 ### Issue credentials from Land Registry Issuer
-  1. [Open application](https://mconsissuer.azurewebsites.net)
-  2. Now you can prove that you are the owner of the property to any Verifier :astonished:
+  1. [Open application](https://cadasterverifier.azurewebsites.net/) and follow the instructions.
+  2. After successful issuance, you can prove that you are the owner of the property to any Verifier :astonished:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -171,14 +186,11 @@ list of proposed features (and known issues).
 <!-- CONTRIBUTING -->
 ## Contributing 
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any feedback you make is
 **greatly appreciated**. If you have a suggestion that would make this better,
-please fork the repo and create a pull request. You can also simply open an
+please use our [discussions](https://github.com/orgs/mortgageconsortium/discussions). You can also simply open an
 issue with the tag "enhancement". Don't forget to give the project a star!
-Thanks again! 1. Fork the Project 2. Create your Feature Branch (`git checkout
--b feature/AmazingFeature`) 3. Commit your Changes (`git commit -m 'Add some
-AmazingFeature'`) 4. Push to the Branch (`git push origin
-feature/AmazingFeature`) 5. Open a Pull Request
+Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -212,7 +224,7 @@ Icons](https://react-icons.github.io/react-icons/search)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]:
-https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+https://img.shields.io/badge/contributors-4-green?style=for-the-badge
 [contributors-url]:
 https://github.com/mortgageconsortium/mortgageconsortium.github.io/graphs/contributors
 [forks-shield]:
