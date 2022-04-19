@@ -157,16 +157,16 @@ feature/AmazingFeature`) 5. Open a Pull Request
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License Distributed under the MIT License. See `LICENSE.txt` for more
-information.
+## License 
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact info 
+## Contact 
 - [Twitter](https://twitter.com/Tomas97762057) 
-- [Email] tomas.slavik@microsoft.com 
-- Project Link: [GitHub](https://github.com/mortgageconsortium)
+- tomas.slavik@microsoft.com 
+- [Project Link](https://github.com/mortgageconsortium)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
