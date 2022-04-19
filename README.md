@@ -124,7 +124,10 @@ https://github.com/your_username_/Project-Name.git ``` 3. Install NPM packages
 <!-- USAGE EXAMPLES -->
 ## Usage 
 
-  ### How to use Decentralized Identity
+### Decentralized Identity
+  Concept of Decentralized Identity
+  - TBD
+### How to use Decentralized Identity
   1. [Open application](https://app.consortium.mortgage)
   2. SignUp
       - Currently, for the demo purpose you will use AAD as Identity Provider. In the future this could be changed to any other IDP, for instance BankID.
@@ -135,9 +138,12 @@ https://github.com/your_username_/Project-Name.git ``` 3. Install NPM packages
 
   3. After successful sign-up, please wait approximately 1 hour for verification of your identity
   4. Issue your credentials to your phone - Follow the instructions [Here](https://mconsissuer.azurewebsites.net/)
-  5. Open application again and scan the QRCode with Authenticator App
+  5. Open application [here](https://app.consortium.mortgage) and scan the QRCode with Authenticator App
   6. Enjoy the platform :blush:
 
+### Issue credentials from Land Registry Issuer
+  1. [Open application](https://mconsissuer.azurewebsites.net)
+  2. Now you can prove that you are the owner of the property to any Verifier :astonished:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
