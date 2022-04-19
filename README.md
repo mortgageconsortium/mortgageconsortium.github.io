@@ -166,8 +166,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact 
 - [Twitter](https://twitter.com/Tomas97762057) 
-- tomas.slavik@microsoft.com 
-- [Project Link](https://github.com/mortgageconsortium)
+- [LinkedIn](https://www.linkedin.com/in/tomas-slavik)
+- [GitHub](https://github.com/mortgageconsortium)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -206,6 +206,6 @@ https://github.com/mortgageconsortium/mortgageconsortium.github.io/blob/master/L
 [linkedin-shield]:
 https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: 
-ttps://www.linkedin.com/in/tomas-slavik 
+https://www.linkedin.com/in/tomas-slavik 
 [product-screenshot]: 
 images/screenshot.png
