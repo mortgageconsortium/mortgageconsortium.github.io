@@ -30,7 +30,7 @@ License][license-shield]][license-url]
   <h3 align="center">Real Estate Consortium</h3>
 
   <p align="center">
-    Real Estate Consortium documentation
+    Consortium documentation & Home page
     <br />
     <a href="#getting-started"
       ><strong>Explore the docs »</strong></a
@@ -71,7 +71,6 @@ License][license-shield]][license-url]
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -114,7 +113,10 @@ simple example steps. ### Prerequisites This is an example of how to list things
 you need to use the software and how to install them. 
 
 * npm ```sh npm install
-npm@latest -g ``` ### Installation _Below is an example of how you can instruct
+npm@latest -g ``` 
+
+### Installation 
+_Below is an example of how you can instruct
 your audience on installing and setting up your app. This template doesn't rely
 on any external dependencies or services._ 1. Get a free API Key at
 [https://example.com](https://example.com) 2. Clone the repo ```sh git clone
@@ -125,9 +127,9 @@ https://github.com/your_username_/Project-Name.git ``` 3. Install NPM packages
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage Use this 
+## Usage 
 
-space to show useful examples of how a project can be used.
+Use this space to show useful examples of how a project can be used.
 Additional screenshots, code examples and demos work well in this space. You may
 also link to more resources. _For more examples, please refer to the
 [Documentation](https://example.com)_
@@ -135,11 +137,13 @@ also link to more resources. _For more examples, please refer to the
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Roadmap - [x] Add Changelog - [x] Add back to top links - [ ] Add Additional
-Templates w/ Examples - [ ] Add "components" document to easily copy & paste
-sections of the readme - [ ] Multi-language Support - [ ] Chinese - [ ] Spanish
-See the [open
-issues](https://github.com/mortgageconsortium/mortgageconsortium.github.io/issues) for a full
+## Roadmap 
+- [x] Add Changelog 
+- [x] Add back to top links 
+- [ ] Add Additional Templates w/ Examples 
+- [ ] Add "components" document to easily copy & paste sections of the readme 
+- [ ] 
+See the [open issues](https://github.com/mortgageconsortium/mortgageconsortium.github.io/issues) for a full
 list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -164,9 +168,10 @@ information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact info - [Twitter](https://twitter.com/Tomas97762057) -
-tomas.slavik@microsoft.com Project Link:
-[GitHub](https://github.com/mortgageconsortium)
+## Contact info 
+- [Twitter](https://twitter.com/Tomas97762057) 
+- [Email] tomas.slavik@microsoft.com 
+- Project Link: [GitHub](https://github.com/mortgageconsortium)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
