@@ -88,7 +88,7 @@ bootstrap your project. Leave any add-ons/plugins for the acknowledgements
 section. Here are a few examples. 
 
 * [AZURE](https://azure.microsoft.com) 
-* [Nestjs.com](https://nextjs.org/) 
+* [Nestjs](https://nestjs.com/) 
 * [Angular](https://angular.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
