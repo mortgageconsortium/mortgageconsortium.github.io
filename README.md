@@ -157,7 +157,7 @@ https://github.com/your_username_/Project-Name.git ```
   2. Look at the decision tree and decide what to do.
   ```mermaid
 flowchart LR
-    A[Identity] --> B{Do you have already identity?}
+    A[Identity] --> B{Have you already created identity?}
     B -- Yes --> C{Have you issued a membership card?}
     C -- No --> D[Issue your card]
     C -- Yes --> E[Scan QRCode & Sign in]
