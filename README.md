@@ -160,10 +160,10 @@ flowchart LR
     A[Identity] --> B{Do you have already identity?}
     B -- Yes --> C{Have you issued a membership card?}
     C -- No --> D[Issue your card]
-    C -- Yes --> E[Sign into the app]
+    C -- Yes --> E[Scan QRCode & Sign in]
     B -- No --> F[SignUp]
 click D "https://mconsissuer.azurewebsites.net" "Issue your card here"
-click D "https://app.consortium.mortgage" "Sign in"
+click E "https://app.consortium.mortgage" "Sign in"
 ```
 
   3. SignUp
