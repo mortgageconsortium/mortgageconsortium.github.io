@@ -152,20 +152,48 @@ https://github.com/your_username_/Project-Name.git ```
   Concept of Decentralized Identity
   - TBD
 ### How to use Decentralized Identity
+
   1. [Open application](https://app.consortium.mortgage)
-  2. SignUp
+  2. Look at the decision tree and decide what to do.
+flowchart LR
+    A[Identity] --> B{Do you have already identity?}
+    B -- Yes --> C{Have you issued a membership card?}
+    C -- No --> D[Issue your card]
+    C -- Yes --> E[Sign into the app]
+    B -- No --> F[SignUp]
+click D "https://mconsissuer.azurewebsites.net" "Issue your card here"
+click D "https://app.consortium.mortgage" "Sign in"
+  3. SignUp
       - Currently, for the demo purpose you will use AAD as Identity Provider. In the future this could be changed to any other IDP, for instance BankID.
       - Click `sign up now`
       <p align="left">
         <img src="assets/doc/auth/auth.png" alt="Auth" width="400" height="400" />
       </p>
 
-  3. After successful sign-up, please wait approximately 1 hour for verification of your identity
-  4. Issue your credentials to your phone - Follow the instructions [Here](https://mconsissuer.azurewebsites.net/)
-  5. Open application [here](https://app.consortium.mortgage) and scan the QRCode with Authenticator App
-  6. Enjoy the platform :blush:
+  4. After successful sign-up, please wait approximately 1 hour for verification of your identity
+  5. Issue your credentials to your phone - Follow the instructions [Here](https://mconsissuer.azurewebsites.net/)
+  6. Open application [here](https://app.consortium.mortgage) and scan the QRCode with Authenticator App
+  7. Enjoy the platform :blush:
 
 ### Issue credentials from Land Registry Issuer
+<div class="warning" style='background-color:#E9D8FD; color: #69337A;  border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-left:1em;'>
+Land Registry issues claims about the property to your wallet. In our demo, if you are seller you need to prove your ownership. For the simplicity, we generate some ID as the property ID for you. This attribute you can see within your credentials in Authenticator app and then you are easily decide who can read what.
+</p></span>
+</div>
+<!-- <div class="warning" style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>On the importance of sentence length</b></p>
+<p style='margin-left:1em;'>
+This sentence has five words. Here are five more words. Five-word sentences are fine. But several together bocome monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety.<br><br>
+    Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasent rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals -- sounds that say listen to this, it is important.
+</p>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b>- Gary Provost</b> <i>(100 Ways to Improve Your Writing, 1985)</i>
+</p></span>
+</div> -->
+
   1. [Open application](https://cadasterverifier.azurewebsites.net/) and follow the instructions.
   2. After successful issuance, you can prove that you are the owner of the property to any Verifier :astonished:
 
