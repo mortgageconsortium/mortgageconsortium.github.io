@@ -155,7 +155,7 @@ https://github.com/your_username_/Project-Name.git ```
 
   1. [Open application](https://app.consortium.mortgage)
   2. Look at the decision tree and decide what to do.
-  <div class="mermaid">
+  ```mermaid
 flowchart LR
     A[Identity] --> B{Do you have already identity?}
     B -- Yes --> C{Have you issued a membership card?}
@@ -164,7 +164,7 @@ flowchart LR
     B -- No --> F[SignUp]
 click D "https://mconsissuer.azurewebsites.net" "Issue your card here"
 click D "https://app.consortium.mortgage" "Sign in"
-</div>
+```
 
   3. SignUp
       - Currently, for the demo purpose you will use AAD as Identity Provider. In the future this could be changed to any other IDP, for instance BankID.
