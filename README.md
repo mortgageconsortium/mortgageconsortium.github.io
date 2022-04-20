@@ -179,12 +179,13 @@ click E "https://app.consortium.mortgage" "Sign in"
   7. Enjoy the platform :blush:
 
 ### Issue credentials from Land Registry Issuer
-<div class="warning" style='background-color:#E9D8FD; color: #69337A;  border-radius: 4px; padding:0.7em;'>
-<span>
-<p style='margin-left:1em;'>
-Land Registry issues claims about the property to your wallet. In our demo, if you are seller you need to prove your ownership. For the simplicity, we generate some ID as the property ID for you. This attribute you can see within your credentials in Authenticator app and then you are easily decide who can read what.
-</p></span>
-</div>
+
+```
+  Land Registry issues claims about the property to your wallet. In our demo, if you are seller you need to prove your ownership. 
+  For the simplicity, we generate some ID as the property ID for you. 
+  This attribute you can see within your credentials in Authenticator app and then you are easily decide who can read what.
+  ```
+
 <!-- <div class="warning" style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'>
 <span>
 <p style='margin-top:1em; text-align:center'>
