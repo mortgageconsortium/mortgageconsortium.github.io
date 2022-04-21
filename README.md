@@ -18,10 +18,12 @@
 <div align="center" markdown="1">
   
 [![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url] [![MIT
-License][license-shield]][license-url]
+[![Issues][issues-shield]][issues-url] 
+[![Stars][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-  
+
+
 </div>
 
 <!-- PROJECT LOGO -->
@@ -267,17 +269,17 @@ https://github.com/mortgageconsortium/mortgageconsortium.github.io/graphs/contri
 https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]:
-https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+https://img.shields.io/badge/stars-7-B04300?style=for-the-badge
+[stars-url]: https://mortgageconsortium/mortgageconsortium.github.io/stargazers
 [issues-shield]:
 https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/mortgageconsortium/mortgageconsortium.github.io/issues
 [license-shield]:
-https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+https://img.shields.io/badge/license-MIT-blueviolet?style=for-the-badge
 [license-url]:
 https://github.com/mortgageconsortium/mortgageconsortium.github.io/blob/master/LICENSE
 [linkedin-shield]:
-https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=blue
 [linkedin-url]: 
 https://www.linkedin.com/in/tomas-slavik 
 [product-screenshot]: 
