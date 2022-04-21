@@ -111,7 +111,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 * Simulate how easy can be buy or sell property via crypto. 
-* We are using Ethereum. All transactions are done on testnet.
+* We are using Ethereum. All transactions are done on testnet and you can find any details [here](https://etherscan.io/)
 * We are using concept of decentralized identity to verify multiple claims (ie. the owner of the property)
 * You do not need your own Wallet. It is generated for you. In the future we would like to support your own web wallet [Metamask](https://metamask.io/) or hardware wallet [Trezor](https://trezor.io/)
 * All contracts are prepared. Because we are using blockchain, appropriate contracts are created as smart contracts. Therefore, no third party is needed.
