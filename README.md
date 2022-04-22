@@ -82,7 +82,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project 
+## Project page
 [![Illustration demo page][product-screenshot]](../../assets/img/mcons-demo.png) 
 
 
