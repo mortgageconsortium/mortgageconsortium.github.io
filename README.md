@@ -83,7 +83,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 
-[![Product Name Screen Shot][product-screenshot]](https://example.com) 
+[![Illustration demo page][product-screenshot]](../../assets/img/mcons-demo.png) 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -283,4 +283,4 @@ https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linked
 [linkedin-url]: 
 https://www.linkedin.com/in/tomas-slavik 
 [product-screenshot]: 
-images/screenshot.png
+assets/img/mcons-demo.png
