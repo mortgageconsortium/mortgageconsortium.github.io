@@ -227,10 +227,11 @@ list of proposed features (and known issues).
 <!-- CONTRIBUTING -->
 ## Contributing 
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any feedback you make is
+We are constantly learning, inspiring and creating. Any feedback you make is
 **greatly appreciated**. If you have a suggestion that would make this better,
 please use our [discussions](https://github.com/orgs/mortgageconsortium/discussions). You can also simply open an
-issue with the tag "enhancement". Don't forget to give the project a star!
+issue with the tag "enhancement". 
+Don't forget to give the project a star!
 Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
