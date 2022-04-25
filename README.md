@@ -215,7 +215,7 @@ This sentence has five words. Here are five more words. Five-word sentences are 
 <!-- ROADMAP -->
 ## Roadmap 
 - [x] Add back to top links 
-- [x] Add public project with roadmap 
+- [ ] Add public project with roadmap 
 - [ ] Add Additional Templates w/ Examples 
 - [ ] Add "components" document to easily copy & paste sections of the readme 
 - [ ] 
