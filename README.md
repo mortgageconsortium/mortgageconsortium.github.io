@@ -121,13 +121,15 @@ This is an example of how to list things you need to use the software and how to
 * We are using concept of decentralized identity to verify multiple claims (ie. the owner of the property)
 * You do not need your own Wallet. It is generated for you. In the future we would like to support your own web wallet [Metamask](https://metamask.io/) or hardware wallet [Trezor](https://trezor.io/)
 * All contracts are prepared. Because we are using blockchain, appropriate contracts are created as smart contracts. Therefore, no third party is needed.
-* From security and audit reasons, transactions are persisted in Confidential Ledger.
+* From security and audit reasons, all main steps in workflow and user transactions are persisted in Confidential Ledger.
 * Contact between participants using audio/video call. [![Version](https://img.shields.io/badge/comming%20soon-blue)]()
 * Contact between participants using chat. [![Version](https://img.shields.io/badge/comming%20soon-blue)]()
 * You do not need anything - just play the game with your friend, colleague, wife, husband, neighbor etc.
+
 ### Limitations
 
 * This is demo platform. All data can be lost.
+* Application is under development, therefore it might happen some outage.
 
 <!-- * npm ```sh npm install
 npm@latest -g ``` 
